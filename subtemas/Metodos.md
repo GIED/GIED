@@ -9,5 +9,6 @@ Este método consiste en...
 ## Método de Fourier
 
 Aquí detallamos...
+![Diagrama de EDP](imagenes/GIO.jpg)
 
 [Regresar al índice principal](../README.md)
