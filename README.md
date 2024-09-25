@@ -13,9 +13,9 @@ Presión y número de moles constante en un gas.
 
 Al ser un gas ideal, se tiene la ecuación de estado de los gases ideales, pero la presión y el número de moles se mantiene constante, por lo tanto:
 
-\\[
+\[
 V \\propto T \\tag{1}
-\\]
+\]
 
 Esto significa que el volumen del gas es directamente proporcional a la temperatura para un número constante de moles.
 
