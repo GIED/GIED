@@ -7,22 +7,28 @@
 3. [Series de Fourier](subtemas/SeriesDeFourier.md)
 
 
-El oxígeno al ser un gas ideal cumple la ecuación de estado de los gases ideales, de donde:
+## 2.7 Si n moles de un gas ideal pueden bombearse a través de un tubo de diámetro "d" a 4K, ¿cuál debe ser el diámetro del tubo para bombear el mismo número de moles a 300K?
+
+Presión y número de moles constante en un gas.
+
+Al ser un gas ideal, se tiene la ecuación de estado de los gases ideales, pero la presión y el número de moles se mantiene constante, por lo tanto:
 
 \[
-P = \frac{nRT}{V} \tag{1}
+V \propto T \tag{1}
 \]
 
-El número de moles contenido en los 8kg de oxígeno es:
+Esto significa que el volumen del gas es directamente proporcional a la temperatura para un número constante de moles.
 
-v = m / M = 8000g / (32 g/mol) = 250 mol (2)
-
-Sustituyendo \(v\) en (1):
+El volumen de un cilindro se puede expresar como:
 
 \[
-P = \frac{(250\,mol)(0.08205746\,\frac{atm \cdot L}{mol \cdot K})(300\,K)}{10000\,L} \approx 0.62\,atm \tag{3}
+V = A \cdot L \tag{2}
 \]
 
+Donde \(A\) es el área de sección transversal definida como \(\frac{\pi d^2}{4}\) y \(L\) la longitud del cilindro.
+
+Dado que el flujo volumétrico es constante, el volumen debe ser directamente proporcional a la temperatura:
+
 \[
-0.62\,atm = 62821.5\,Pa \tag{4}
+\frac{V_1}{T_1} = \frac{V_2}{T_2} \tag{3}
 \]
