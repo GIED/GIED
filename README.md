@@ -15,9 +15,7 @@ P = \frac{nRT}{V} \tag{1}
 
 El número de moles contenido en los 8kg de oxígeno es:
 
-\[
-v = \frac{m}{M} = \frac{8000g}{32 \, \frac{g}{mol}} = 250\,mol \tag{2}
-\]
+v = m / M = 8000g / (32 g/mol) = 250 mol (2)
 
 Sustituyendo \(v\) en (1):
 
